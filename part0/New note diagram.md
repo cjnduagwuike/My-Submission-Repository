@@ -1,4 +1,4 @@
- ## What happens when you click on save in the form
+ ## New note diagram
 
 ``` mermaid
 sequenceDiagram
